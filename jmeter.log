@@ -1,0 +1,19 @@
+2024/08/18 12:09:25 INFO  - jmeter.util.JMeterUtils: Setting Locale to pt_BR 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: Loading user properties from: /usr/share/jmeter/bin/user.properties 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: Loading system properties from: /usr/share/jmeter/bin/system.properties 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: Version 2.13.19691222 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: java.version=1.8.0_422 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: java.vm.name=OpenJDK 64-Bit Server VM 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: os.name=Linux 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: os.arch=amd64 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: os.version=5.15.0-118-generic 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: Default Locale=português (Brasil) 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: JMeter  Locale=português (Brasil) 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: JMeterHome=/usr/share/jmeter 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: user.dir  =/home/basis/personal_code/imobcop/imobiexpress-srv 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: PWD       =/home/basis/personal_code/imobcop/imobiexpress-srv 
+2024/08/18 12:09:25 INFO  - jmeter.JMeter: IP: 127.0.1.1 Name: basis-Latitude-3400 FullName: basis-Latitude-3400 
+2024/08/18 12:09:26 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2024/08/18 12:09:26 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
